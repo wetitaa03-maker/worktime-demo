@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">ประชุม Town Hall ประจำเดือนพฤศจิกายน</title><desc id="desc">โปสเตอร์เชิญพนักงานร่วมประชุม Town Hall วันที่ 12 พฤศจิกายน เวลา 15 นาฬิกา</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12345b"/><stop offset="1" stop-color="#3983e6"/></linearGradient></defs>
+<rect width="1200" height="560" rx="32" fill="url(#bg)"/><circle cx="1000" cy="90" r="220" fill="#ffffff" opacity=".08"/><circle cx="1080" cy="500" r="260" fill="#70c3ff" opacity=".12"/>
+<g fill="none" stroke="#b9ddff" stroke-width="10" opacity=".8"><rect x="820" y="130" width="210" height="200" rx="22"/><path d="M870 105v55m110-55v55M820 200h210"/><path d="m875 265 35 35 70-75" stroke="#9de5c2" stroke-width="16"/></g>
+<text x="90" y="145" fill="#9ed0ff" font-family="Tahoma,sans-serif" font-size="28" font-weight="700" letter-spacing="4">WORKTIME · ข่าวสารบริษัท</text>
+<text x="90" y="250" fill="#ffffff" font-family="Tahoma,sans-serif" font-size="64" font-weight="700">TOWN HALL</text>
+<text x="90" y="315" fill="#ffffff" font-family="Tahoma,sans-serif" font-size="36">ประชุมพบปะพนักงานประจำเดือน</text>
+<rect x="90" y="380" width="390" height="76" rx="18" fill="#ffffff" opacity=".16"/><text x="120" y="430" fill="#ffffff" font-family="Tahoma,sans-serif" font-size="30" font-weight="700">12 พ.ย. 2569 · 15:00 น.</text>
+</svg>
